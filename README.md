@@ -4,7 +4,7 @@ Esta é a página do projeto de uma pokédex onde são mostrados os pokemóns co
 
 O trabalho foi desenvolvido pelo aluno:
 
-  *Talles Ian
+  * Talles Ian
   
  
  ### Confira abaixo uma imagem do meu projeto:
